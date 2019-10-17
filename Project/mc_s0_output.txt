@@ -1,0 +1,22 @@
+Number of g1_students =  72
+G1_q1_correct =  16
+G1_q1_correctness = 0.2222222222222222
+G1_q2_correct =  12
+G1_q2_correctness = 0.16666666666666666
+G1_rate_diff = -0.05555555555555555
+
+
+Number of g2_students =  80
+G2_q1_correct =  17
+G2_q1_correctness = 0.2125
+G2_q2_correct =  19
+G2_q2_correctness = 0.2375
+G2_rate_diff = 0.024999999999999994
+
+
+Number of g3_students =  78
+G3_q1_correct =  18
+G3_q1_correctness = 0.23076923076923078
+G3_q2_correct =  21
+G3_q2_correctness = 0.2692307692307692
+G3_rate_diff = 0.038461538461538436

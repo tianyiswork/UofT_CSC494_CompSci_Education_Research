@@ -1,0 +1,35 @@
+Number of g1 students =  71
+G1_q1_correct =  29
+G1_q1_correctness = 0.4084507042253521
+G1_q2_correct =  61
+G1_q2_correctness = 0.8591549295774648
+G1_q3_correct =  8
+G1_q3_correctness = 0.11267605633802817
+G1_q4_correct =  33
+G1_q4_correctness = 0.4647887323943662
+
+
+Number of g2_students =  79
+G2_q1_correct =  24
+G2_q1_correctness = 0.3037974683544304
+G2_q2_correct =  59
+G2_q2_correctness = 0.7468354430379747
+G2_q3_correct =  8
+G2_q3_correctness = 0.10126582278481013
+G2_q4_correct =  38
+G2_q4_correctness = 0.4810126582278481
+G2_q5_correct =  69
+G2_q5_correctness = 0.8734177215189873
+
+
+Number of g3_students =  76
+G3_q1_correct =  26
+G3_q1_correctness = 0.34210526315789475
+G3_q2_correct =  62
+G3_q2_correctness = 0.8157894736842105
+G3_q3_correct =  7
+G3_q3_correctness = 0.09210526315789473
+G3_q4_correct =  29
+G3_q4_correctness = 0.3815789473684211
+G3_q5_correct =  67
+G3_q5_correctness = 0.881578947368421

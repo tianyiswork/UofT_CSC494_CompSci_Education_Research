@@ -1,0 +1,31 @@
+Number of g1_students =  72
+G1_q1_tries_took_s1 =  362
+G1_q1_avg_tries_s1 = 5.027777777777778
+G1_q2_tries_took_s1 =  391
+G1_q2_avg_tries_s1 = 5.430555555555555
+G1_q2_tries_took_s2 =  283
+G1_q2_avg_tries_s2 = 3.9305555555555554
+G1_rate_diff_s1 = 0.4027777777777777
+G1_rate_diff_s2 = -1.0972222222222223
+
+
+Number of g2_students =  80
+G2_q1_tries_took_s1 =  409
+G2_q1_avg_tries_s1 = 5.1125
+G2_q2_tries_took_s1 =  362
+G2_q2_avg_tries_s1 = 4.525
+G2_q2_tries_took_s2 =  277
+G2_q2_avg_tries_s2 = 3.4625
+G2_rate_diff_s1 = -0.5874999999999995
+G2_rate_diff_s2 = -1.65
+
+
+Number of g3_students =  78
+G3_q1_tries_took_s1 =  369
+G3_q1_avg_tries_s1 = 4.730769230769231
+G3_q2_tries_took_s1 =  346
+G3_q2_avg_tries_s1 = 4.435897435897436
+G3_q2_tries_took_s2 =  267
+G3_q2_avg_tries_s2 = 3.423076923076923
+G3_rate_diff_s1 = -0.2948717948717947
+G3_rate_diff_s2 = -1.307692307692308
